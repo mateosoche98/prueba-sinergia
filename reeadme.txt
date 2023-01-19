@@ -1,0 +1,2 @@
+Cree una tabla productos dentro de la db sinergia
+para que realicen las pruebas de las consultas sql
